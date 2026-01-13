@@ -1,0 +1,7 @@
+{
+  "action": {
+    "actor_required": false,
+    "origin_tracked": false
+  },
+  "principle": "Action does not imply an actor."
+}
